@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## GitHub Stats
+## My GitHub Stats
 
 ![sseffa's github stats](https://github-readme-stats.vercel.app/api?username=sseffa&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseffa&layout=compact&theme=tokyonight)](https://github.com/sseffa)
