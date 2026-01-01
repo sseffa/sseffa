@@ -2,21 +2,28 @@
 
 <!--
 **sseffa/sseffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 
 ## My GitHub Stats
 
-![sseffa's github stats](https://github-readme-stats.vercel.app/api?username=sseffa&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseffa&layout=compact&theme=tokyonight)](https://github.com/sseffa)
+<!-- GitHub Streak - Token gerektirmez -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=sseffa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<!-- GitHub Profile Summary Cards - Token gerektirmez -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sseffa&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sseffa&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sseffa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sseffa&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sseffa&theme=tokyonight&utcOffset=3" />
+</p>
+
+<!-- GitHub Trophy - Token gerektirmez -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=sseffa&theme=tokyonight&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Activity Graph - Token gerektirmez -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sseffa&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
